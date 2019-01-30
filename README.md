@@ -2,7 +2,7 @@
 
 Bienvenue
 
-Ceci est nos super HAckingPinterest designé et codé par la Team Eloise, Momo et Yannick
+Ceci est nos super HackingPinterest designé et codé par la Team Eloise, Momo et Yannick
 
 Pour le tester tu peux par exemple:
 
